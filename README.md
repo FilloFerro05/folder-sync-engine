@@ -2,7 +2,9 @@
 
 Sistema di sincronizzazione di cartelle in Python: rende una cartella di destinazione una **copia coerente** della sorgente (copia i file nuovi, aggiorna quelli diversi, rimuove quelli obsoleti, replica anche le cartelle vuote), con una versione sequenziale e una **parallela** che usa **multiprocessing** per la scansione e **multithreading** per le operazioni di I/O.
 
-Progetto del corso di Python avanzato. La [versione originale (notebook Colab)](https://colab.research.google.com/drive/1b7S0y9QtlB8WAb-yi5IPd0RZ21f3Bd8c) è stata rivista in base ai feedback del docente.
+Progetto del corso di Python avanzato.
+
+[![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b7S0y9QtlB8WAb-yi5IPd0RZ21f3Bd8c)
 
 ## Il problema
 
