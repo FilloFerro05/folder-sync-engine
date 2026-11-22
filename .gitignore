@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+venv/
+.venv/
+*.egg-info/
+folder_sync_bench_*/
+.DS_Store
