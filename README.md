@@ -1,4 +1,4 @@
-# Folder Sync Engine
+#📁 Folder Sync Engine
 
 Sistema di sincronizzazione di cartelle in Python: rende una cartella di destinazione una **copia coerente** della sorgente (copia i file nuovi, aggiorna quelli diversi, rimuove quelli obsoleti, replica anche le cartelle vuote), con una versione sequenziale e una **parallela** che usa **multiprocessing** per la scansione e **multithreading** per le operazioni di I/O.
 
