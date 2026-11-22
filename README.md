@@ -101,4 +101,3 @@ report = synchronize_folders("dati", "backup", parallel=True)
 - Se quasi tutti i file stanno in una sola sottocartella, la scansione parallela non può bilanciare il lavoro.
 - Su file system con date poco precise (FAT) usare `mtime_tolerance_ns`.
 
-Autore: [FilloFerro05](https://github.com/FilloFerro05)
